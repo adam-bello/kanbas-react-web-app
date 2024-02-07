@@ -1,0 +1,116 @@
+.wd-btn-success {
+  background-color: green;
+  color: white;
+}
+
+.wd-status-buttons {
+  margin-top: 10px;
+}
+
+.wd-status-buttons > button {
+  margin-top: 2px;
+  width: 100%;
+  text-align: left;
+}
+
+.wd-course-status-block {
+  margin-top: 5px;
+}
+
+.wd-course-status-block > hr {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.wd-course-status-block div > a {
+  text-decoration: none !important;
+}
+
+.wd-coming-up-block {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.wd-coming-up-block > i {
+  margin-right: 4px;
+}
+
+.wd-coming-up-text {
+  margin-top: none;
+  display: block;
+}
+
+.wd-coming-up-title {
+  font-size: medium;
+}
+
+.wd-coming-up-subtitle {
+  font-size: small;
+}
+
+.wd-home-container {
+  width: 100%;
+}
+
+.wd-navar {
+  display: flex;
+  width: 100%;
+}
+
+.wd-modules-header {
+  align-items: center;
+}
+
+.wd-modules-header > i, div {
+  font-size: large;
+}
+
+.wd-modules-header > div {
+  margin-right: 10px;
+}
+
+.wd-modules-header > div > i {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.wd-align-right {
+  margin-left: auto;
+}
+
+.wd-navbar-title {
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  text-align: center;
+}
+
+.wd-nav-menu {
+  width: 100%;
+  list-style: none;
+  background-color: white;
+  padding: 0px;
+  margin: 0px;
+}
+
+.wd-nav-menu > li {
+  padding: 10px;     
+  margin-bottom: 10px;
+}
+
+.wd-nav-menu a, i {
+  /* color: red; */
+  text-decoration: none;
+}
+
+.wd-nav-course-menu {
+  width: 100%;
+  background-color: white;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.wd-nav-course-menu li > a {
+  color: red;
+}
