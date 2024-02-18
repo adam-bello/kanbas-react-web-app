@@ -1,0 +1,10 @@
+.wd-btn-primary {
+  background-color: lightgrey !important;
+  color: black;
+  border-color: lightgrey;
+}
+
+.wd-btn-danger {
+  background-color: red !important;
+  color: white;
+}
